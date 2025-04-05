@@ -1,4 +1,3 @@
-test edit
 # Como usar o Git e Github na prática
  
 ## Início do vídeo
